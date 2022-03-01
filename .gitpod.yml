@@ -1,0 +1,4 @@
+github:
+  prebuilds:
+    addCheck: true
+    addBadge: true

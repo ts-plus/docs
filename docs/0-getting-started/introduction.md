@@ -1,3 +1,0 @@
-# TS+ Introduction
-
-TODO
